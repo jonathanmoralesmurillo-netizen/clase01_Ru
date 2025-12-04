@@ -40,7 +40,7 @@ int leerEntero() {
 }
 
 void limpiaPantalla(){
-    system("cls");
+    system("clear");
 }
 
 void esperandoEnter() {
